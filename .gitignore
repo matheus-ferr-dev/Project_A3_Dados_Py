@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Outputs
+outputs/figures/*.png
+outputs/reports/*.txt
+outputs/figures/*.jpg
+outputs/figures/*.pdf
+
+# Data (opcional - descomente se não quiser versionar dados)
+# DataSet/
+
+# Logs
+*.log
+
+# Arquivos de teste temporários
+test_*.py
+test_*.txt
+test_*.log
+*_test.py
+*_tests.py
+validate_project.py
+execute_tests.py
+run_and_test.py
+simple_test.py
+test_complete.py
+test_run.py
+validation_report.txt
+test_results*.txt
+test_execution.log
+
+# OS
+.DS_Store
+Thumbs.db
+

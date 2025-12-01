@@ -1,0 +1,64 @@
+========================================
+ARQUIVOS PARA SUBIR NO GIT
+========================================
+
+✅ SUBIR ESTES ARQUIVOS:
+
+1. CÓDIGO FONTE:
+   - main.py
+   - config/settings.py
+   - src/ (todos os arquivos .py e __init__.py)
+
+2. CONFIGURAÇÃO:
+   - requirements.txt
+   - .gitignore
+
+3. DOCUMENTAÇÃO:
+   - README.md
+   - PROJECT_OVERVIEW.md
+   - RELATORIO_TESTES.md
+   - GIT_UPLOAD.md
+
+4. ESTRUTURA:
+   - outputs/__init__.py
+   - outputs/figures/.gitkeep
+   - outputs/reports/.gitkeep
+
+========================================
+❌ NÃO SUBIR:
+
+1. DADOS:
+   - DataSet/*.csv (muito grandes)
+
+2. OUTPUTS GERADOS:
+   - outputs/figures/*.png
+   - outputs/reports/*.txt
+
+3. ARQUIVOS DE TESTE:
+   - test_*.py
+   - validate_project.py
+   - execute_tests.py
+   - run_and_test.py
+   - simple_test.py
+   - test_complete.py
+   - test_run.py
+   - test_*.txt
+   - test_*.log
+
+4. CACHE:
+   - __pycache__/
+   - *.pyc
+
+========================================
+COMANDO RÁPIDO:
+
+git add .
+git status  # Verificar o que será commitado
+git commit -m "Initial commit: Projeto Olist"
+git push
+
+O .gitignore já está configurado para ignorar
+automaticamente os arquivos que não devem ser subidos.
+
+========================================
+
