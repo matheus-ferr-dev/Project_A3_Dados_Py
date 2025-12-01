@@ -181,17 +181,18 @@ print(f"Receita total: R$ {metrics['receita_total']:,.2f}")
 
 ## 📄 Licença
 
-Este projeto foi desenvolvido para fins educacionais e de análise de dados.
+Este projeto foi desenvolvido para fins educacionais como parte do projeto A3 da disciplina de Dados.
 
-## 👤 Autor
+## 👤 Autores
 
-Desenvolvido como parte do projeto A3 da disciplina de Dados.
+Marcos Natiel da Silva Pardim - 4251924809
+Isadora Ribeiro Eugênio - 42322274
+Victor Hugo Rodrigues Alves - 42421886
+Matheus da Silva Ferreira - 4231924502
+Vinicius Pereira Paiva - 4231923132
+Letícia Ferreira Pinto - 4251925677
+Kethlen Nunes de Carvalho - 4251920401
 
-## 🤝 Contribuições
 
-Sugestões e melhorias são bem-vindas!
 
----
-
-**Última atualização**: 2024
 
