@@ -51,8 +51,8 @@ VISUALIZATION_CONFIG = {
 }
 
 PANDAS_CONFIG = {
-    'display_max_columns': None,
-    'display_max_rows': 100,
-    'display_width': None,
-    'display_max_colwidth': 50
+    'display.max_columns': None,
+    'display.max_rows': 100,
+    'display.width': None,
+    'display.max_colwidth': 50
 }
